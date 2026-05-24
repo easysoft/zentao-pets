@@ -4,7 +4,7 @@
 
 ## 阿道
 
-首位上岗的桌面搭档。会发呆、会奔跑、会挥手打招呼；任务卡壳时陪你一起 emo，跑通了立刻原地蹦跶。把它请进桌面，工位瞬间热闹起来。
+阿道来了，他会发呆、会奔跑、会挥手打招呼；任务卡壳时陪你一起 emo，跑通了立刻原地蹦跶。把它请进桌面，工位瞬间热闹起来。
 
 | 待机 | 向右跑 | 向左跑 |
 | --- | --- | --- |
@@ -37,3 +37,8 @@
 | ![挥手](./gifs/wizard-adao/waving.gif) | ![跳跃](./gifs/wizard-adao/jumping.gif) | ![失败](./gifs/wizard-adao/failed.gif) |
 | 等待 | 奔跑 | 审视 |
 | ![等待](./gifs/wizard-adao/waiting.gif) | ![奔跑](./gifs/wizard-adao/running.gif) | ![审视](./gifs/wizard-adao/review.gif) |
+
+## 开发和维护
+
+* 使用脚本 `scripts/build-gifs.sh` 生成宠物 GIF 动画。
+* 使用技能 `submit-zentao-pet` 提交禅道宠物。
