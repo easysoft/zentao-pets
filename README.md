@@ -13,3 +13,15 @@
 | ![挥手](./gifs/adao/waving.gif) | ![跳跃](./gifs/adao/jumping.gif) | ![失败](./gifs/adao/failed.gif) |
 | 等待 | 奔跑 | 审视 |
 | ![等待](./gifs/adao/waiting.gif) | ![奔跑](./gifs/adao/running.gif) | ![审视](./gifs/adao/review.gif) |
+
+## 魔法师阿道
+
+程序员阿道换上魔法师装扮，手捧禅道旋纹魔法球闪亮登场。代码不通时挥一挥魔杖，Bug 仿佛也被施了减速咒；编译通过的瞬间，他还会蹦起来庆祝。
+
+| 待机 | 向右跑 | 向左跑 |
+| --- | --- | --- |
+| ![待机](./gifs/wizard-adao/idle.gif) | ![向右跑](./gifs/wizard-adao/running-right.gif) | ![向左跑](./gifs/wizard-adao/running-left.gif) |
+| 挥手 | 跳跃 | 失败 |
+| ![挥手](./gifs/wizard-adao/waving.gif) | ![跳跃](./gifs/wizard-adao/jumping.gif) | ![失败](./gifs/wizard-adao/failed.gif) |
+| 等待 | 奔跑 | 审视 |
+| ![等待](./gifs/wizard-adao/waiting.gif) | ![奔跑](./gifs/wizard-adao/running.gif) | ![审视](./gifs/wizard-adao/review.gif) |
