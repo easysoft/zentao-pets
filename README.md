@@ -14,6 +14,18 @@
 | 等待 | 奔跑 | 审视 |
 | ![等待](./gifs/adao/waiting.gif) | ![奔跑](./gifs/adao/running.gif) | ![审视](./gifs/adao/review.gif) |
 
+## 阿婵
+
+阿婵身披禅道蓝白旋纹长袍、腰悬利剑，是一位身手矫健的女剑客。她在桌面边角静静伫立，需求来袭时拔剑出鞘，三两下斩断疑难，再向你抱拳致意。
+
+| 待机 | 向右跑 | 向左跑 |
+| --- | --- | --- |
+| ![待机](./gifs/achan-swordswoman/idle.gif) | ![向右跑](./gifs/achan-swordswoman/running-right.gif) | ![向左跑](./gifs/achan-swordswoman/running-left.gif) |
+| 挥手 | 跳跃 | 失败 |
+| ![挥手](./gifs/achan-swordswoman/waving.gif) | ![跳跃](./gifs/achan-swordswoman/jumping.gif) | ![失败](./gifs/achan-swordswoman/failed.gif) |
+| 等待 | 奔跑 | 审视 |
+| ![等待](./gifs/achan-swordswoman/waiting.gif) | ![奔跑](./gifs/achan-swordswoman/running.gif) | ![审视](./gifs/achan-swordswoman/review.gif) |
+
 ## 魔法师阿道
 
 程序员阿道换上魔法师装扮，手捧禅道旋纹魔法球闪亮登场。代码不通时挥一挥魔杖，Bug 仿佛也被施了减速咒；编译通过的瞬间，他还会蹦起来庆祝。
